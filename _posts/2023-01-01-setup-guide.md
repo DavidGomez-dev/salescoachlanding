@@ -84,7 +84,7 @@ Click on "Add Card" on the SAILES Cards, which should then appear on the Cards l
 
 <p class="text-center"><img src="../../assets/images/guide5n5.png" alt="Permissions" class="my-3 border border-3 border-primary rounded rounded-3"></p>
 
-Click the **X** at the top of the right panel to close it. Then, in the upper-right corner, click **Save and exit**. The SAILES Coach card should now be visible on the selected record.
+Click the <strong>X</strong> at the top of the right panel to close it. Then, in the upper-right corner, click <strong>Save and exit</strong>. The SAILES Coach card should now be visible on the selected record.
 
 Repeat these steps for each record type—Deals, Contacts, and Companies—as needed. Super Admins or users with appropriate permissions may need to perform this setup for all relevant record types.
 
@@ -250,13 +250,13 @@ If you find SAILES Coach valuable and want to unlock unlimited evaluations and p
 <p>It is very important to make it work that:</p>
 
 <ul>
-  <li>The internal name be exactly “score_meddicc”</li>
+  <li>The internal name be exactly “score_sales_coach”</li>
   <li>Object type is “Deal”</li>
   <li>Group is “Deal information”</li>
   <li>The property label “Score” (but it can be different)</li>
 </ul>
 
-<p class="text-center"><img src="../../assets/images/trouble2.png" alt="troubleshooting" class="my-3 w-50 border border-3 border-primary rounded rounded-3"></p>
+<p class="text-center"><img src="../../assets/images/trouble2n.png" alt="troubleshooting" class="my-3 w-50 border border-3 border-primary rounded rounded-3"></p>
 
 <ul>
   <li>"Field type": # Number</li>
@@ -273,23 +273,6 @@ If you find SAILES Coach valuable and want to unlock unlimited evaluations and p
 </ul>
 
 <p class="text-center"><img src="../../assets/images/trouble22.png" alt="troubleshooting" class="my-3 w-50 border border-3 border-primary rounded rounded-3"></p>
-
-<hr>
-<h4 id="the-ai-autofill-is-not-taking-information-from-my-emails" class="pt-6-m mb-3 text-primary">The AI Autofill is not taking information from my Emails<a class="header-link" href="#the-ai-autofill-is-not-taking-information-from-my-emails" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a></h4>
-
-<p>To enable this, you may need to reauthorize the app for the new permits required (access to read emails basically). Please click here:</p>
-
-<p class="text-center"><a href="{{ site.pwalink }}" alt="Install" class="w-10">
-<img src="../../assets/images/installBtn.png" alt="Install"></a></p>
-
-<p>In all cases, the information extracted from emails is limited to the initial portion of each email. This helps avoid processing repetitive long threads, legal disclaimers, and other non-essential content. However, if critical Deal information is buried deep within the email threads or other engagements, the AI might not capture or interpret it accurately. Also AI tends to allucinate sometimes, please check important facts.</p>
-
-<hr>
-<h4 id="stage-report" class="pt-6-m mb-3 text-primary">The Stage is not correct on the report<a class="header-link" href="#stage-report" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a></h4>
-
-<p>The Stage property in HubSpot can be modified. Ensure that the internal name for lost opportunities includes the string "lost" and for won opportunities, it includes the string "won". Note that sometimes the internal name might be a number, which is the standard when the stage is created.</p>
-
-<p class="text-center"><img src="../../assets/images/trouble7.png" alt="troubleshooting" class="mt-5 w-50 border border-3 border-primary rounded rounded-3"></p>
 
 <hr>
 
