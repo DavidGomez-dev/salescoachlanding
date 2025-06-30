@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: SAILES Coach
-email: meddiccscore@gmail.com
-pwalink: "https://app-eu1.hubspot.com/oauth/authorize?client_id=2da3e323-5933-4b26-a4ca-0724ed3a6c7e&redirect_uri=https://app.meddiccscore.com/oauth-callback&scope=oauth%20crm.objects.deals.read%20crm.objects.deals.write&optional_scope=crm.schemas.deals.write%20crm.pipelines.orders.write%20sales-email-read"
+email: sailescoach@gmail.com
+pwalink: "https://app-eu1.hubspot.com/oauth/authorize?client_id=e4bd7913-d034-4e2b-a080-dbba8cb1167c&scope=oauth%20crm.objects.deals.read%20crm.objects.deals.write%20crm.objects.contacts.read%20crm.objects.contacts.write%20crm.objects.companies.read%20crm.objects.companies.write&optional_scope=crm.pipelines.orders.write%20sales-email-read&redirect_uri=https%3A%2F%2Fapi.sailescoach.com%2Foauth-callback"
 googleplaylink: "https://play.google.com/store/apps/details?id=com.DOMAIN.app.twa  TODO Add  &utm_source=landing"
 appstorelink: "/?ref=requestappstore   TODO Add  &utm_source=landing"
 description: Simplify your sales process with automated MEDDICC score for HubSpot integration. Transform tedious tasks into actionable insights and enhance your team’s efficiency with ease.
@@ -159,7 +159,7 @@ defaults:
       related: true
       classes: ""
       header:
-        overlay_filter: linear-gradient(to right bottom, rgba(0, 164, 189, 0.8), rgba(0, 189, 165.5))
+        overlay_filter: linear-gradient(to right bottom, rgba(255, 143, 89, 0.8), rgba(245, 194, 107))
   # _pages
   - scope:
       path: "_pages"

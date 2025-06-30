@@ -1,12 +1,12 @@
 ---
 layout: single
-title: "Meddicc Score HubSpot Guide"
+title: "SAILES Coach HubSpot Guide"
 categories: blog
 tags:
   - setup guide
 classes: wide no_padding_top
 date: 2023-01-01 16:54:38 +0100
-excerpt: Guide for installing and using Meddicc Score in HubSpot
+excerpt: Guide for installing and using SAILES Coach in HubSpot
 sidebar_resume: true
 header:
   overlay_image: /assets/images/zermatt.jpg
@@ -55,10 +55,40 @@ header:
 
 <h4 class="pt-6-m mb-3 text-primary" id="confirm-permissions">4. Confirm Permissions</h4>
 
-<p>Approve the necessary permissions for Meddicc Score to interface with your HubSpot CRM and click on “Connect app”. Congratulations, you have installed Meddicc Score. </p>
+<p>Approve the necessary permissions for SAILES Coach to interface with your HubSpot CRM and click on “Connect app”. Congratulations, you have installed SAILES Coach. </p>
 <p>The first user of the account is the Admin by default, but there can be more users on the same account.</p>
 
 <p class="text-center"><img src="../../assets/images/guide21.png" alt="Permissions" class="my-3 border border-3 border-primary rounded rounded-3"></p>
+
+<h4 class="pt-6-m mb-3 text-primary" id="adding-cards">5. Adding the Cards to the Deals, Contacts or Company records</h4>
+
+<p>SAILES Coach is easily accessible within your HubSpot records, but you may need to configure the app card to display on your Deal, Contact, or Company record pages. You may need Super Admins must complete this setup. Follow the steps below to add the SAILES Coach card to your record views.</p>
+
+1. In the account where you installed the app, got the Deal, Company and or Contact record and click the Customize icon in the main navigation bar.
+
+<p class="text-center"><img src="../../assets/images/guide5n1.png" alt="Permissions" class="my-3 border border-3 border-primary rounded rounded-3"></p>
+
+2. Click the Record customization tab. Click Default view to customize the default contact record view.
+
+<p class="text-center"><img src="../../assets/images/guide5n2.webp" alt="Permissions" class="my-3 border border-3 border-primary rounded rounded-3"></p>
+
+3. Click the + tab to create a new Card on Overview or a new Card on the Sidebar.
+
+<p class="text-center"><img src="../../assets/images/guide5n3.png" alt="Permissions" class="my-3 border border-3 border-primary rounded rounded-3"></p>
+
+In the right panel, under Card library > All card types, click Apps.
+
+<p class="text-center"><img src="../../assets/images/guide5n4.png" alt="Permissions" class="my-3 border border-3 border-primary rounded rounded-3"></p>
+
+Click on "Add Card" on the SAILES Cards, which should then appear on the Cards list.
+
+<p class="text-center"><img src="../../assets/images/guide5n5.png" alt="Permissions" class="my-3 border border-3 border-primary rounded rounded-3"></p>
+
+Click the **X** at the top of the right panel to close it. Then, in the upper-right corner, click **Save and exit**. The SAILES Coach card should now be visible on the selected record.
+
+Repeat these steps for each record type—Deals, Contacts, and Companies—as needed. Super Admins or users with appropriate permissions may need to perform this setup for all relevant record types.
+
+<p class="text-center"><img src="../../assets/images/guide5n6.png" alt="Permissions" class="my-3 border border-3 border-primary rounded rounded-3"></p>
 
 </div>
 </div>
@@ -73,155 +103,84 @@ header:
 <div class="accordion-collapse collapse show" id="collapseUsing" data-bs-parent="#accordionExample">
 <div class="accordion-body">
 
-<h4 class="pt-6-m mb-3 text-primary" id="access-from-sidebar">5. Access Meddicc Score from the HubSpot Sidebar</h4>
+<h4 class="pt-6-m mb-3 text-primary" id="access-from-sidebar">6. Access SAILES Coach from the HubSpot Middle or Side Cards </h4>
 
-<p>Find Meddicc Score in the HubSpot sidebar under Deal. It displays a summary of the total score and categorizes the status using three colors (red, yellow, and green) based on the completeness of each category.</p>
+<p>SAILES Coach is available in Deals, Contacts, and Companies. You can access it either in the main (middle) section as a detailed summary or in the sidebar as a concise executive overview. Each view provides tailored information relevant to the specific record type, helping you quickly understand key insights and next steps.</p>
+<p>
+  The analysis displayed is the most recent available, but it may become outdated over time. Users can generate a new analysis at any moment by clicking the <strong>Redo Analysis</strong> button.
+</p>
 
-<p class="text-center"><img src="../../assets/images/guide3.png" alt="Access from Sidebar" class="my-3 border border-3 border-primary rounded rounded-3"></p>
+<p>
+  In the middle section, the complete assessment can be copied to the clipboard by clicking the <strong>Copy</strong> button.
+</p>
+
+<h5 class="pt-6-m mb-3 text-primary" id="deals">Deals</h5>
+
+<p>
+  The information shown for each Deal includes:
+</p>
+<ul>
+  <li>A summary line providing a quick overview.</li>
+  <li>A progress bar indicating the probability of closure (0–100), calculated holistically by the AI model.</li>
+  <li>A summary of the Deal, highlighting important details such as deal stage, value, and expected close date.</li>
+  <li>An action plan with recommended next steps, including suggested activities or follow-ups to advance the deal.</li>
+  <li>Related contacts and their roles or implications for the deal, helping you identify key stakeholders and decision-makers.</li>
+  <li>Key points for messaging and communication, offering guidance on how to engage with the client or prospect effectively.</li>
+</ul>
+
+<p class="text-center"><img src="../../assets/images/deal-card-tab.png" alt="Access from Sidebar" class="my-3 border border-3 border-primary rounded rounded-3"></p>
+<p class="text-center"><img src="../../assets/images/deal-card-side.png" alt="Access from Sidebar" class="my-3 border border-3 border-primary rounded rounded-3"></p>
+
+<h5 class="pt-6-m mb-3 text-primary" id="contacts">Contacts</h5>
+
+<p>
+  For each Contact, SAILES Coach provides:
+</p>
+<ul>
+  <li>A concise summary of the contact's past engagements, including an evaluation of the relationship—covering their attitude, engagement level, and any relevant context.</li>
+  <li>An actionable one-line next step for the user, indicating what to discuss with the contact and which Deal(s) it relates to.</li>
+  <li>A summary of the contact's involvement in each Deal, including the deal name, a one-line status summary, and a unique identifier for each deal.</li>
+  <li>Key talking points or topics to address in the next interaction, tailored to recent activity and referencing the relevant deals.</li>
+  <li>Clicking on Email, a draft email suggestion, including a subject and body, summarizing key points and next steps, and inviting further engagement in a friendly, professional tone.</li>
+  <li>A rapport indicator (disengaged, neutral, engaged, or champion) that evaluates the strength of the relationship based on the number, recency, and quality of interactions, as well as the contact's attitude.</li>
+</ul>
+<p class="text-center"><img src="../../assets/images/contact-card-tab.png" alt="Access from Sidebar" class="my-3 border border-3 border-primary rounded rounded-3"></p>
+<p class="text-center"><img src="../../assets/images/contact-card-side.png" alt="Access from Sidebar" class="my-3 border border-3 border-primary rounded rounded-3"></p>
+
+<h5 class="pt-6-m mb-3 text-primary" id="companies">Companies</h5>
+
+<p>
+  For each Company, SAILES Coach provides:
+</p>
+<ul>
+  <li>A concise summary of the company's relationship, engagement level, and sales potential.</li>
+  <li>A one-line actionable next step for the user to take with this company.</li>
+  <li>A summary of ongoing deals, each showing the deal name, a unique identifier, and a one-line status or next step.</li>
+  <li>A summary of related contacts, each with their name, unique identifier, and a brief note on their involvement or relationship.</li>
+  <li>A list of key opportunities or risks identified for this company.</li>
+  <li>A prioritized action plan to strengthen the relationship and advance sales.</li>
+  <li>An overall company health indicator: "at risk", "neutral", "engaged", or "strategic".</li>
+</ul>
+<p class="text-center"><img src="../../assets/images/company-card-tab.png" alt="Access from Sidebar" class="my-3 border border-3 border-primary rounded rounded-3"></p>
+<p class="text-center"><img src="../../assets/images/company-card-side.png" alt="Access from Sidebar" class="my-3 border border-3 border-primary rounded rounded-3"></p>
 
 <hr>
 
-<h4 class="pt-6-m mb-3 text-primary" id="begin-scoring">6. Begin Scoring</h4>
+<h4 class="pt-6-m mb-3 text-primary" id="upgrade-to-premium">7. Upgrade to Premium</h4>
 
-<ul>
-  <li>The first time you access a Deal, the default framework (normally MEDDICC) is used. (The default framework can be changed in the Settings.)</li>
-  <li>Meddicc Score retrieves the relevant information of the last 100 Deal Engagements (Emails, Meetings, Calls, Tasks, Notes…) recorded in HubSpot. AI analyzes this data to auto-fill responses for the Framework Questions.
-Note: Comments to engagements are not gathered since they are not available through the HubSpot API.</li>
-</ul>
+<p>
+The free plan of SAILES Coach allows you to evaluate up to 5 Deals, 5 Contacts, and 5 Companies.  
+If you find SAILES Coach valuable and want to unlock unlimited evaluations and premium features, you can upgrade directly within the app. Simply click “Upgrade Now” to access a secure Stripe-powered checkout.
+</p>
 
-<video autoplay loop muted playsinline controls class="img-fluid border border-3 border-primary rounded rounded-3 my-3" poster="/assets/images/poster-clip.png">
-<source src="/assets/images/clip.mp4" type="video/mp4">
-<source src="/assets/images/clip.webm" type="video/webm">
-<img src="../../assets/images/poster-clip.png" alt="Auto fill" class="my-5 border border-3 border-primary rounded rounded-3">
-</video>
+<p class="text-center"><img src="../../assets/images/guide7n1.png" alt="Ugrade" class="my-3 border border-3 border-primary rounded rounded-3"></p>
 
-<ul>
-  <li>Then the AI model returns a Score based on the data introduced and feedback for every step. The responses, feedback and score are stored.</li>
-  <li>Users can manually update the pre-filled responses on the form at any time. If additional information has been recorded in the Deal, they can click on "Refill" to re-populate the form with updated AI-generated responses.</li>
-  <li>To prevent specific responses from being modified or overwritten during a refill, users can lock those responses by clicking the lock icon. Locked responses will remain unchanged even after a refill.</li>
-  <p class="text-center"><img src="../../assets/images/guide411.png" alt="Auto scoring" class="my-3 border border-3 border-primary rounded rounded-3"></p>
-  <li>Clicking on Score will trigger the AI to reassess and recalculate the Score based on updated data.</li>
-</ul>
-
-<p class="text-center"><img src="../../assets/images/guide42.png" alt="Auto scoring" class="my-3 border border-3 border-primary rounded rounded-3"></p>
-
-<ul>
-  <li>Users can also modify the score manually by clicking the pencil icon below the score.</li>
-  <li>All scores are stored in HubSpot as a property (custom variable) named “score_meddicc”.</li>
-</ul>
-
-<p class="text-center"><img src="../../assets/images/guide41.png" alt="Manual Scoring" class="w-50 my-3 mx-auto border border-3 border-primary rounded rounded-3"></p>
-
+<p class="text-center"><img src="../../assets/images/guide7n2.png" alt="Ugrade" class="my-3 border border-3 border-primary rounded rounded-3"></p>
 <hr>
 
-<h4 class="pt-6-m mb-3 text-primary" id="change-framework">7. Change the Framework</h4>
+<h4 class="pt-6-m mb-3 text-primary" id="changeplan">8. Change the subscription plan</h4>
 
-<ul>
-  <li>Users can select a different qualification framework for each Deal.</li>
-  <li>AI will prepopulate the selected framework with relevant information from the Deal.</li>
-  <li>However, switching frameworks will not automatically recalculate the score nor save the responses, ensuring that old responses remain accessible.</li>
-  <li>Users can return to the previous framework at any time.</li>
-</ul>
-
-<p class="text-center"><img src="../../assets/images/guide4.png" alt="Begin Scoring" class="my-3 border border-3 border-primary rounded rounded-3"></p>
-
-<hr>
-
-<h4 class="pt-6-m mb-3 text-primary" id="editing-questions">8. Settings: Editing the framework questions and default framework (only Admin)</h4>
-
-<ul>
-  <li>Only Admins can access this feature. Clicking the Settings buttons, on the Framework tab, allows the user to edit the questions for that framework. The change will apply to all account members (not just the individual user). The modification will not affect the answers or scores previously submitted but will update the questions for all deals where that framework has been used.</li>
-</ul>
-
-<p class="text-center"><img src="../../assets/images/guide9.png" alt="Editing" class="my-3 border border-3 border-primary rounded rounded-3"></p>
-
-<ul>
-  <li>Turning on the ‘Default Framework’ switch will set the selected framework as the default for the entire account. Every new deal will use this framework by default. The change will not affect the answers or frameworks previously submitted in existing deals. The default framework is initially set to MEDDICC.</li>
-</ul>
-
-<p class="text-center"><img src="../../assets/images/guide10.png" alt="Editing" class="my-3 border border-3 border-primary rounded rounded-3"></p>
-
-<hr>
-
-<h4 class="pt-6-m mb-3 text-primary" id="manage-account">9. Settings: Manage your account and users (only Admin)</h4>
-
-<ul>
-  <li>Clicking on the "Account" tab displays a list of current users who have installed MeddiccScore.</li>
-  <li>In the right column of the list, two actions are available only to the Admin user:
-    <ul>
-      <li><strong>Upgrade/Downgrade:</strong> Change the user's status to Premium or Free. This action either assigns or frees up a license. If no licenses are available, additional licenses can be purchased, or the account can be upgraded to the Team plan.</li>
-      <li><strong>Delete:</strong> Marks the user for deletion. Once deleted, the user will need to reinstall MeddiccScore to regain access.</li>
-      <li><strong>Make Admin:</strong> Assigns administrative privileges to the selected user, granting them access to manage account settings and users.</li>
-    </ul>
-  </li>
-</ul>
-
-<p class="text-center"><img src="../../assets/images/guide91.png" alt="Editing" class="my-3 border border-3 border-primary rounded rounded-3"></p>
-
-<ul>
-  <li>On the right side, there are different options:
-    <ul>
-      <li><strong>Upgrade (Free users only):</strong> Upgrade your account to access premium features.</li>
-      <li><strong>Manage Subscription (Admin, paid users only):</strong> Opens the Customer Portal to update or cancel your subscription. For Corporate subscriptions, contact support by email. <a href="#how-can-cancell-or-manage-my-subcription">More information.</a></li>
-      <li><strong>Delete Account:</strong> Permanently deletes all MeddiccScore data (not your HubSpot account), including deals, users, and account information. This action cannot be undone. Please <a href="#how-can-cancell-or-manage-my-subcription">cancel any paid subscription</a> before deleting your account. Type "Delete Account" to confirm.</li>
-      <li><strong>Automations (Premium users only):</strong> Automate the scoring process. See the next section for details.</li>
-    </ul>
-  </li>
-</ul>
-
-<hr>
-
-<h4 class="pt-6-m mb-3 text-primary" id="automations">10. Automations (Only Premium Admins)</h4>
-
-<ul>
-  <li>Automations help you streamline and automate the scoring process. They are only available for Premium users.</li>
-
-  <p class="text-center"><img src="../../assets/images/guide911.png" alt="Editing" class="my-3 w-50 border border-3 border-primary rounded rounded-3"></p>
-  <li>
-    <strong>Automatic Scoring:</strong> When enabled, this feature sets up a workflow so that every time a new engagement (Note, Meeting, Task, or Call) is logged in HubSpot, the Meddicc Score form is automatically re-filled with the latest information and rescored. Locked fields will not be changed, but unlocked fields and the overall score may be updated. Please note the following limitations due to the HubSpot API:
-    <ul>
-      <li>The Meddicc Card in the sidebar will not refresh automatically; it updates only when the entire deal is refreshed.</li>
-      <li>Automatic scoring is not triggered if an engagement is updated from a previous engagement already created.</li>
-      <li>Automatic scoring does not trigger for new emails; it works only for Meetings, Calls, Tasks, or Notes.</li>
-    </ul>
-  </li>
-  <li>
-    <strong>Score Account:</strong> This option will trigger scoring for <b>all deals*</b> in your account. <b>All previous information and scores will be overwritten, and this action cannot be undone.</b> The process may take several minutes, and the Admin user will receive an email notification once it is complete. <br>
-      * Limited to the last 2000 Deals created that are not closed yet. If you need more, please <a href="mailto:meddiccscore@gmail.com">contact support</a>.
-  </li>
-</ul>
-
-<hr>
-
-<h4 class="pt-6-m mb-3 text-primary" id="report-and-export">11. Report and Export</h4>
-
-<ul>
-  <li>Clicking on Report, a full account pipeline summary can be found.</li>
-  <li>It includes a  Bubble Quadrant Graph, which displays the current year’s opportunities with their Score, Close Date, and Amount represented by the bubble size. It will only shows deals that have Close Date and Amount recorded.</li>
-  <li>From the report is possible to download a CSV with all the notes and scores saved.</li>
-  <li>It is also possible to download the report on PDF format.</li>
-</ul>
-
-<p class="text-center"><img src="../../assets/images/guide8.png" alt="Reporting" class="my-3 border border-3 border-primary rounded rounded-3"></p>
-
-<ul>
-  <li>The Score is also available as a custom HubSpot property (score_meddicc), and can be used in reporting, columns, etc.</li>
-</ul>
-
-<p class="text-center"><img src="../../assets/images/features4.png" alt="Reporting" class="my-3 border border-3 border-primary rounded rounded-3"></p>
-
-<hr>
-
-<h4 class="pt-6-m mb-3 text-primary" id="upgrade-to-premium">12. Upgrade to Premium</h4>
-
-<p>If you like Meddicc Score and want to use it for more than 5 deals, you can upgrade easily from the own app. Click on “Upgrade Now” and you will go to a checkout powered by Stripe.</p>
-
-<p class="text-center"><img src="../../assets/images/guide5.png" alt="Ugrade" class="my-3 border border-3 border-primary rounded rounded-3"></p>
-<hr>
-
-<h4 class="pt-6-m mb-3 text-primary" id="changeplan">13. Change the subscription plan</h4>
-
-<p>If you're already enjoying the premium benefits of Meddicc Score but want to upgrade to a Team plan or switch to a yearly subscription to unlock significant savings, you can easily make the change through the Customer Portal. Take advantage of these exclusive discounts today and maximize your Meddicc Score experience!</p>
+<p>If you're already enjoying the premium benefits of SAILES Coach but want to upgrade to a Team plan or switch to a yearly subscription to unlock significant savings, you can easily make the change through the Customer Portal. Take advantage of these exclusive discounts today and maximize your SAILES Coach experience!</p>
 
 <p class="text-center"><img src="../../assets/images/trouble5.png" alt="troubleshooting" class="mt-5 w-50 border border-3 border-primary rounded rounded-3"></p>
 
@@ -245,7 +204,7 @@ Note: Comments to engagements are not gathered since they are not available thro
 
 <p>Additionally, you may want to delete all the data stored in MeddiccScore, including users and account information, before uninstalling. <a href="#manage-account">More information.</a> If you plan to reinstall the app later, the data will reappear unless the account has been deleted beforehand.</p>
 
-<p>To uninstall, navigate to <strong>Settings &gt; Integrations &gt; Connected Apps</strong>. Click in Actions and then "Uninstall". This will uninstall Meddicc Score without impacting your HubSpot data.</p>
+<p>To uninstall, navigate to <strong>Settings &gt; Integrations &gt; Connected Apps</strong>. Click in Actions and then "Uninstall". This will uninstall SAILES Coach without impacting your HubSpot data.</p>
 
 <p class="text-center"><img src="../../assets/images/guide6.png" alt="Uninstall" class="my-3 border border-3 border-primary rounded rounded-3"></p>
 
@@ -264,7 +223,7 @@ Note: Comments to engagements are not gathered since they are not available thro
 
 <h4 id="cannot-install-app" class="pt-6-m mb-3 text-primary">I cannot install the APP<a class="header-link" href="#cannot-install-app" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a></h4>
 
-<p>Please check that the user have permits to install external APPs from the marketplace.</p>
+<p>Please check that the user has permission to install external apps from the marketplace. Users must be either a super admin or have <a href="https://knowledge.hubspot.com/user-management/hubspot-user-permissions-guide?hubs_content=knowledge.hubspot.com/integrations/connect-apps-to-hubspot&hubs_content-cta=app-marketplace-access#settings" target="_blank">App Marketplace Access permissions</a> or <a href="https://knowledge.hubspot.com/user-management/hubspot-user-permissions-guide?hubs_content=knowledge.hubspot.com/integrations/connect-apps-to-hubspot&hubs_content-cta=super-admin#super-admin" target="_blank">Super Admin permissions</a> to connect apps to their HubSpot account.</p>
 
 <p class="text-center"><img src="../../assets/images/trouble13.png" alt="troubleshooting" class="my-3 border border-3 border-primary rounded rounded-3"></p>
 
