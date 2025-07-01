@@ -256,7 +256,7 @@ If you find SAILES Coach valuable and want to unlock unlimited evaluations and p
   <li>The property label “Score” (but it can be different)</li>
 </ul>
 
-<p class="text-center"><img src="../../assets/images/trouble2n.png" alt="troubleshooting" class="my-3 w-50 border border-3 border-primary rounded rounded-3"></p>
+<p class="text-center"><img src="../../assets/images/trouble2n.png" alt="troubleshooting" class="my-3 border border-3 border-primary rounded rounded-3"></p>
 
 <ul>
   <li>"Field type": # Number</li>
