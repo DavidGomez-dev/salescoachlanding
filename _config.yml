@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: SAILES Coach
-email: sailescoach@gmail.com
+email: sailescoachapp@gmail.com
 pwalink: "https://app-eu1.hubspot.com/oauth/authorize?client_id=e4bd7913-d034-4e2b-a080-dbba8cb1167c&scope=oauth%20crm.objects.deals.read%20crm.objects.deals.write%20crm.objects.contacts.read%20crm.objects.contacts.write%20crm.objects.companies.read%20crm.objects.companies.write&optional_scope=crm.pipelines.orders.write%20sales-email-read&redirect_uri=https%3A%2F%2Fapi.sailescoach.com%2Foauth-callback"
 googleplaylink: "https://play.google.com/store/apps/details?id=com.DOMAIN.app.twa  TODO Add  &utm_source=landing"
 appstorelink: "/?ref=requestappstore   TODO Add  &utm_source=landing"
-description: Simplify your sales process with automated MEDDICC score for HubSpot integration. Transform tedious tasks into actionable insights and enhance your team’s efficiency with ease.
+description: Simplify your sales process with Sailes Coach for HubSpot. Turn scattered workflows into guided actions and help your team close deals with clarity and confidence.
 twitter_username: TwitterUsername
 github_username: username
 minimal_mistakes_skin: contrast #default
@@ -54,7 +54,7 @@ social:
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: G-TMDCPD8D27
+    tracking_id: #G-TMDCPD8D27
     anonymize_ip: # true, false (default)
 
 # Additional scripts (for New Age + Bootstrap)
@@ -97,9 +97,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "Meddicc Score"
+  name: "SAILES"
   avatar: "/assets/images/screenshot2.png"
-  bio: "Enhance your sales process with Meddicc score for Hubspot"
+  bio: "Empower your sales team with Sailes Coach for HubSpot"
   links:
     - label: "Install now"
       icon: "fab fa-fw fa-hubspot"
@@ -127,7 +127,7 @@ footer:
       url: "https://twitter.com/"
     - label: "Sitemap"
       icon: "fas fa-fw fa-sitemap"
-      url: "https://www.meddiccscore.com/sitemap.xml"
+      url: "https://www.sailescoach.com/sitemap.xml"
     - label: "Terms"
       icon: "fas fa-fw fa-file-signature"
       url: "/terms/"
@@ -139,7 +139,7 @@ footer:
       url: "/security/"
     - label: "Affiliate Program"
       icon: "fas fa-fw fa-users"
-      url: "https://meddiccscore.com/blog/affiliate-program/"
+      url: "https://sailescoach.com/blog/affiliate-program/"
     - label: #"Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"

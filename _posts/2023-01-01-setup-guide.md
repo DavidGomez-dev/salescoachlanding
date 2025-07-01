@@ -180,7 +180,7 @@ If you find SAILES Coach valuable and want to unlock unlimited evaluations and p
 
 <h4 class="pt-6-m mb-3 text-primary" id="changeplan">8. Change the subscription plan</h4>
 
-<p>If you're already enjoying the premium benefits of SAILES Coach but want to upgrade to a Team plan or switch to a yearly subscription to unlock significant savings, please send an email to <a href="mailto:sailescoach@gmail.com">sailescoach@gmail.com</a> and our support team will assist you with the change.</p>
+<p>If you're already enjoying the premium benefits of SAILES Coach but want to upgrade to a Team plan or switch to a yearly subscription to unlock significant savings, please send an email to <a href="mailto:sailescoachapp@gmail.com">sailescoachapp@gmail.com</a> and our support team will assist you with the change.</p>
 
  <!-- you can easily make the change through the Customer Portal. Take advantage of these exclusive discounts today and maximize your SAILES Coach experience!</p>
 
@@ -278,19 +278,19 @@ If you find SAILES Coach valuable and want to unlock unlimited evaluations and p
 
 <h4 id="how-can-add-a-discount-code" class="pt-6-m mb-3 text-primary">How can add a discount code<a class="header-link" href="#how-can-add-a-discount-code" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a></h4>
 
-<p>On the checkout Stripe page, there is a button ‘Add Code’ where you can add yu discount code. The price will be automatically updated. If you face any problem or the code not longer works, please <a href="mailto:sailescoach@gmail.com">Contact Us</a>:</p>
+<p>On the checkout Stripe page, there is a button ‘Add Code’ where you can add yu discount code. The price will be automatically updated. If you face any problem or the code not longer works, please <a href="mailto:sailescoachapp@gmail.com">Contact Us</a>:</p>
 
 <p class="text-center"><img src="../../assets/images/trouble4.png" alt="troubleshooting" class="mt-5 w-50 border border-3 border-primary rounded rounded-3"></p>
 
 <p class="text-center"><img src="../../assets/images/trouble3.png" alt="troubleshooting" class="mb-3 w-50 border border-3 border-primary rounded rounded-3"></p>
 
-<p>If you already have a subscription and want to add a coupon code, it cannot be done automatically, please <a href="mailto:sailescoach@gmail.com">Contact Us</a></p>
+<p>If you already have a subscription and want to add a coupon code, it cannot be done automatically, please <a href="mailto:sailescoachapp@gmail.com">Contact Us</a></p>
 
 <hr>
 
 <h4 id="how-can-cancell-or-manage-my-subcription" class="pt-6-m mb-3 text-primary">How can I cancel or manage my subscription?<a class="header-link" href="#how-can-cancell-or-manage-my-subcription" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a></h4>
 
-<p>If you wish to cancel your SAILES Coach subscription, please send an email to <a href="mailto:sailescoach@gmail.com">sailescoach@gmail.com</a> and our support team will process your cancellation request.</p>
+<p>If you wish to cancel your SAILES Coach subscription, please send an email to <a href="mailto:sailescoachapp@gmail.com">sailescoachapp@gmail.com</a> and our support team will process your cancellation request.</p>
 
 <!-- <p>If you want to cancel your subscription or change the invoice details, you can access the Customer Portal (or send and email to Support) by clicking on “Subscription” button inside the settings. (Only admin users)</p>
 <p>Please cancell your subscription BEFORE uninstalling the APP, since the latter does not automatically cancel de subcription. (this is a HubSpot limitation)</p>
