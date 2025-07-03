@@ -62,7 +62,10 @@ header:
 
 <h4 class="pt-6-m mb-3 text-primary" id="adding-cards">5. Adding the Cards to the Deals, Contacts or Company records</h4>
 
-<p>SAILES Coach is easily accessible within your HubSpot records, but you may need to configure the app card to display on your Deal, Contact, or Company record pages. You may need Super Admins must complete this setup. Follow the steps below to add the SAILES Coach card to your record views.</p>
+<p>SAILES Coach is easily accessible within your HubSpot records, but you may need to configure the app card to display on your Deal, Contact, or Company record pages.</p>
+
+<p>Users must have <strong>Customize record page layout</strong> permissions or <strong>Super Admin permissions</strong> to create cards and customize a record. If you are unable to add the card, see the <a href="#cannot-add-cards">I cannot add cards to my view</a> section below for troubleshooting steps.</p>
+<p>Follow the steps below to add the SAILES Coach card to your record views.</p>
 
 1. In the account where you installed the app, got the Deal, Company and or Contact record and click the Customize icon in the main navigation bar.
 
@@ -230,6 +233,16 @@ If you find SAILES Coach valuable and want to unlock unlimited evaluations and p
 <p class="text-center"><img src="../../assets/images/trouble13.png" alt="troubleshooting" class="my-3 border border-3 border-primary rounded rounded-3"></p>
 
 <p>For more information on user permissions, visit the <a href="https://knowledge.hubspot.com/user-management/hubspot-user-permissions-guide?#account" target="_blank">HubSpot User Permissions Guide</a>.</p>
+
+<hr>
+
+<h4 id="cannot-add-cards" class="pt-6-m mb-3 text-primary">I cannot add cards to my view<a class="header-link" href="#cannot-add-cards" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a></h4>
+
+<p>Users must have <a href="https://knowledge.hubspot.com/user-management/hubspot-user-permissions-guide?hubs_content=knowledge.hubspot.com/object-settings/create-cards-on-records&hubs_content-cta=customize-record-page-layout#crm-tools" target="_blank">Customize record page layout</a> permissions or <a href="https://knowledge.hubspot.com/user-management/hubspot-user-permissions-guide?hubs_content=knowledge.hubspot.com/object-settings/create-cards-on-records&hubs_content-cta=super-admin#super-admin" target="_blank">Super Admin</a> permissions to create cards and customize a record. For more details, see the <a href="https://knowledge.hubspot.com/object-settings/create-cards-on-records" target="_blank">HubSpot guide on creating cards</a>.</p>
+
+<p class="text-center"><img src="../../assets/images/trouble8n.png" alt="troubleshooting" class="my-3 border border-3 border-primary rounded rounded-3"></p>
+
+<p class="text-center"><img src="../../assets/images/trouble8n2.png" alt="troubleshooting" class="my-3 border border-3 border-primary rounded rounded-3"></p>
 
 <hr>
 
