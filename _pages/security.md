@@ -7,7 +7,7 @@ title: "Security Policy"
 
 **Last updated: March 4, 2025**
 
-At Meddicc Score, we take the security of our users' data very seriously. This Security Policy outlines the measures we take to protect your information and ensure the integrity and confidentiality of your data.
+At Sailes Coach, we take the security of our users' data very seriously. This Security Policy outlines the measures we take to protect your information and ensure the integrity and confidentiality of your data.
 
 ## Data Storage and Encryption
 

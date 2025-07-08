@@ -19,11 +19,11 @@ The words of which the initial letter is capitalized have meanings defined under
 
 For the purposes of these Terms and Conditions:
 
-- **Application** means the software application MeddiccScore, an add-on to HubSpot.
+- **Application** means the software application Sailes Coach, an add-on to HubSpot.
 - **Application Store** means the digital distribution service operated and developed by HubSpot Inc. (HubSpot Marketplace) in which the Application has been downloaded.
 - **Affiliate** means an entity that controls, is controlled by or is under common control with a party, where “control” means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
 - **Country** refers to: United Kingdom
-- **Company** (referred to as either “the Company”, “We”, “Us” or “Our” in this Agreement) refers to MeddiccScore.
+- **Company** (referred to as either “the Company”, “We”, “Us” or “Our” in this Agreement) refers to Sailes Coach.
 - **Device** means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 - **Feedback** means feedback, innovations or suggestions sent by You regarding the attributes, performance or features of our Service.
 - **Goods** refer to the items offered for sale on the Service.

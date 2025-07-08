@@ -7,7 +7,7 @@ title: "Privacy"
 
 **Last updated: March 4, 2025**
 
-Meddicc Score (“we” or “us” or “our”) respects the privacy of our users (“user” or “you”). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our mobile application (the “Application”). Please read this Privacy Policy carefully. **IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS OUR APPLICATIONS.**
+Sailes Coach (“we” or “us” or “our”) respects the privacy of our users (“user” or “you”). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our mobile application (the “Application”). Please read this Privacy Policy carefully. **IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS OUR APPLICATIONS.**
 
 We reserve the right to make changes to this Privacy Policy at any time and for any reason. We will alert you about any changes by updating the “Last updated” date of this Privacy Policy. You are encouraged to periodically review this Privacy Policy to stay informed of updates. You will be deemed to have been made aware of, will be subject to, and will be deemed to have accepted the changes in any revised Privacy Policy by your continued use of the Application after the date such revised Privacy Policy is posted.
 
@@ -21,7 +21,7 @@ This application is integrated with HubSpot and is available through the HubSpot
 
 We collect information about you in various ways to provide and improve our services. The types of information we collect depend on your interactions with our application but it is limited to:
 
-### Information Collected and Stored by MeddiccScore
+### Information Collected and Stored by Sailes Coach
 
 - **Personal Data. Demographic Information**:
 
@@ -33,16 +33,41 @@ We collect information about you in various ways to provide and improve our serv
   - User email
   - Account name
 
-- **Deal Information**:
+- **Deal Information (collected and stored by Sailes Coach)**:
 
   - Deal name
   - Deal amount
   - Deal closing date
   - Deal stage
-  - Responses to the framework
+  - Responses to the Sailes Coach framework (such as qualification questions, notes, and custom fields you provide within the app)
+  - Associated company name
+  - Associated contact names and emails
+  - Owner of the deal (HubSpot user)
+  - Timestamps of deal creation and updates
+  - Any additional deal-related fields you choose to sync or enter via the Sailes Coach application
+
+- **Contact Information (collected and stored by Sailes Coach)**:
+
+  - Contact name
+  - Contact email
+  - Associated company name
+  - Job title (if available)
+  - Notes and custom fields you provide within the app
+  - Timestamps of contact creation and updates
+
+- **Company Information (collected and stored by Sailes Coach)**:
+
+  - Company name
+  - Company domain
+  - Associated contacts and deals
+  - Notes and custom fields you provide within the app
+  - Timestamps of company creation and updates
 
 - **Usage Information**:
-  - Last use dates of MeddiccScore
+
+  - Last use dates of Sailes Coach
+
+  This information is collected to help you manage, analyze, and improve your sales process within the Sailes Coach app. We only collect the minimum necessary data required to provide our services and do not use this information for any purpose other than those described in this Privacy Policy.
 
 ### Information Collected and Stored by Stripe
 
@@ -199,4 +224,4 @@ If you are under 18 years of age, reside in California, and have a registered ac
 
 For any questions or concerns regarding your privacy, you may contact us using the following details:
 
-[meddiccscore@gmail.com](mailto:meddiccscore@gmail.com)
+[sailescoachapp@gmail.com](mailto:sailescoachapp@gmail.com)
