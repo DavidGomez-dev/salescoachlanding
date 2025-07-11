@@ -35,9 +35,15 @@ header:
 
 <p>You may need to grant permission to the user to install external apps. <a href="#cannot-install-app">See below</a>.</p>
 
+<p>It you Admin has already installed and added the APP to the view, you may already see something like this:</p>
+
+<p class="text-center"><img src="../../assets/images/guide1n.png" alt="Permissions" class="my-3 border border-3 border-primary rounded rounded-3"></p>
+
+<p>In this case, just click on "Install SAILES" and you will be prompted to the process.</p>
+
 <hr>
 
-<h4 class="pt-6-m mb-3 text-primary" id="login-to-your-hubspot-account">2. Login to Your HubSpot Account</h4>
+<h4 class="pt-6-m mb-3 text-primary" id="login-to-your-hubspot-account">2. Login to Your HubSpot Account (optional)</h4>
 
 <p>Simply use your standard HubSpot login credentials.</p>
 
@@ -60,7 +66,7 @@ header:
 
 <p class="text-center"><img src="../../assets/images/guide21.png" alt="Permissions" class="my-3 border border-3 border-primary rounded rounded-3"></p>
 
-<h4 class="pt-6-m mb-3 text-primary" id="adding-cards">5. Adding the Cards to the Deals, Contacts or Company records</h4>
+<h4 class="pt-6-m mb-3 text-primary" id="adding-cards">5. Adding the Cards to the Deals, Contacts or Company records (if not done already)</h4>
 
 <p>SAILES Coach is easily accessible within your HubSpot records, but you may need to configure the app card to display on your Deal, Contact, or Company record pages.</p>
 
