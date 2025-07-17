@@ -220,6 +220,140 @@ California Civil Code Section 1798.83, also known as the “Shine The Light” l
 
 If you are under 18 years of age, reside in California, and have a registered account with the Application, you have the right to request removal of unwanted data that you publicly post on the Application. To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Application, but please be aware that the data may not be completely or comprehensively removed from our systems.
 
+## GDPR Clauses
+
+### 1. Data Controller & Representative
+
+We (**Sailes Coach**) are the Data Controller.
+
+For EU/UK data subjects, our EU Representative (if applicable) is:
+
+**David Gomez**  
+[sailescoachapp@gmail.com](mailto:sailescoachapp@gmail.com)
+
+### 2. Lawful Basis for Processing
+
+We process personal data only if we have:
+
+- **Consent** (e.g., surveys, cookies not strictly necessary)
+- **Contractual basis** (account creation, billing)
+- **Legal obligation** (e.g., tax, fraud prevention)
+- **Legitimate interests**, balanced with your rights (e.g., analytics, system improvement)
+
+### 3. Data Collected & Purpose
+
+**A. Personal Data**
+
+- Email, HubSpot account name, usage data  
+  _Purpose: Account setup, support, personalization, analytics_
+
+**B. CRM & Deal Data**
+
+- Deal names, amounts, closing dates, framework responses  
+  _Purpose: Core functionality_
+
+**C. Stripe Payment Data (via Stripe)**
+
+- Email, billing address, payment information (card numbers are not stored by us)  
+  _Purpose: Transaction processing. All financial data is handled by Stripe under their policy._
+
+**D. ChatGPT/OpenAI Data Usage**
+
+- Only user input data (not stored for our use)  
+  _Purpose: To power AI features. Data is processed according to OpenAI’s policy (not used for model training as of March 2023)._
+
+**E. Non-stored HubSpot Records**
+
+- Engagement details like tasks, notes, calls, emails (not stored on our servers)
+
+### 4. Data Transfers & Sub-processors
+
+- We use EU-region servers (e.g., Frankfurt, Amsterdam) for data storage.
+- Sub-processors include Stripe (US), Google Analytics, Sendinblue (France), GitHub, AWS, etc.
+- All transfers outside the EU/UK are subject to Standard Contractual Clauses, ensuring adequate protection.
+
+### 5. Security Measures
+
+- Encryption in transit and at rest (SSL/TLS, AES)
+- Access control for authorized staff only
+- Regular security audits and daily database backups
+- Incident response & breach notification within 72 hours to individuals and relevant authorities
+
+### 6. Cookies & Tracking
+
+- **Strictly necessary cookies:** Essential for app functionality
+- **Optional analytics/marketing cookies:** Require opt-in consent
+- A cookie banner allows users to control their settings
+
+### 7. Data Retention
+
+- Data is kept only as long as necessary for its purpose, with specific retention periods:
+  - **Contract/account-related:** Until termination plus statutory period (e.g., tax/accounting law)
+  - **Analytics/usage:** Anonymized or deleted after X months
+- You will be informed of the retention period during data collection.
+
+### 8. Your Rights (under GDPR & UK GDPR)
+
+You can, at no cost and usually within one month:
+
+- Request access, rectification, erasure, restriction, or transfer of your data
+- Object to processing based on legitimate interests
+- Withdraw consent at any time (re-opt-in may be required later)
+- Lodge a complaint with a supervisory authority (e.g., ICO, EU member state DPA)
+
+**Contact:** [sailescoachapp@gmail.com](mailto:sailescoachapp@gmail.com)
+
+### 9. Profiling & Automated Decision-Making
+
+- We do not use profiling or make decisions solely by automated means—every outcome includes human oversight.
+
+### 10. Children
+
+Our app is not intended for those under 16. We do not knowingly collect their data.
+
+### 11. Policy Changes
+
+We’ll update this policy’s “Last updated” date and notify users via email or in-app message before any material changes.
+
+### 12. Contact & Complaints
+
+EU/UK users can contact:
+
+- **Data Privacy Officer:** [sailescoachapp@gmail.com](mailto:sailescoachapp@gmail.com)
+- **Supervisory Authorities:** ICO (UK) or the relevant EU DPA for unresolved complaints.
+
+## Email Communications: What You’ll Receive
+
+We send several types of emails—each under a different lawful basis:
+
+#### 1. Transactional Emails (Legitimate Interest)
+
+Strongly focused on necessary, service-related actions you’ve taken, such as:
+
+- Order confirmations
+- Billing receipts
+- Security alerts
+- Release notes for major changes (e.g., Terms of Service, privacy updates)
+
+#### 2. Product Updates & Release Notes (Legitimate Interest)
+
+Information you’ve opted into by using our service, like:
+
+- New features
+- Bug fixes
+- Maintenance notifications
+
+A link to our Privacy Policy and instructions for managing preferences is always included.
+
+#### 3. Promotional & Marketing Emails (Consent Granted on installation)
+
+If we do send offers—such as discounts, new product announcements, or upsells—it’s only after:
+
+- You have explicitly opted in by installing the app.
+- You are clearly informed how to unsubscribe at any time in every email.
+
+If even so, you want do not want to receive any email from us, please contact us.
+
 ## Contact Us
 
 For any questions or concerns regarding your privacy, you may contact us using the following details:
