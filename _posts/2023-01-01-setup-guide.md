@@ -11,11 +11,6 @@ sidebar_resume: true
 header:
   overlay_image: /assets/images/zermatt.jpg
   teaser: /assets/images/zermatt.jpg
-  caption:
-  video:
-    side: true
-    id: "86ba7d2367064a80aa9f233190c3f89f?sid=3f8dc7d0-397e-4b72-909b-be3331e82590&hideEmbedTopBar=true&muted=true&autoplay=false&hide_speed=true&t=68"
-    provider: "loom"
 ---
 
 <div id="accordionExample" class="accordion">
